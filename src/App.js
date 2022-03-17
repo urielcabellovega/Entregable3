@@ -19,7 +19,7 @@ function App() {
   
   return (
     <div className='App'>
-      <img src='https://images6.alphacoders.com/876/876591.jpg' alt='Rick and Morty image' id='Firstimage'/>
+      <img src='https://images6.alphacoders.com/876/876591.jpg' alt='Escared Rick and Morty  ' id='Firstimage'/>
       <h1>Rick and Morty wiki</h1>
       <SearchBox setLocation={setLocation} />
       <div id='LocationInfo'>
